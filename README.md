@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Venkatrao
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ... Machine Learning
+- Aspiring Java Full Stack Developer
 
 <!---
 venkatrao20/venkatrao20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
